@@ -25,12 +25,23 @@ The Calculator Project utilizes the following technologies:
 
 ## Usage 🚀
 
-To use the calculator:
+1. Navigate to the folder and open the terminal
+2. run npm start to start the server 
+3. Ensure the Node.js server is running 
+4. Access the calculator by navigating to the [specific URL](http://localhost:3000/)
+5. Once the server is running and you've navigated to the correct URL, the calculator interface will be displayed in your web browser.
+6. Use the provided buttons on the web interface to input numbers and perform operations.
+7. Clear the display or delete characters as needed within the web interface.
+8. Press the "=" button or any designated button to compute the result of the entered expression within the web interface.
 
-1. Open the HTML file in a web browser.
-2. Use the provided buttons to input numbers and perform operations.
-3. Clear the display or delete characters as needed.
-4. Press the "=" button to compute the result of the entered expression.
+
+![Screenshot 2023-11-22 at 14 37 25](https://github.com/iamlydial/cfg-fs-homework1/assets/15132045/a3ef4fe9-748e-4fe7-8efe-98b714fc8159)
+
+![Screenshot 2023-11-22 at 14 38 46](https://github.com/iamlydial/cfg-fs-homework1/assets/15132045/dcff0a49-6b15-4922-8d46-59bfe4be4624)
+
+![Screenshot 2023-11-22 at 14 38 54](https://github.com/iamlydial/cfg-fs-homework1/assets/15132045/fe705765-47c1-46ae-a2ca-abace5c71318)
+
+
 
 ## Video Demo 🎥
 
