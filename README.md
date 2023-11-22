@@ -32,4 +32,6 @@ To use the calculator:
 3. Clear the display or delete characters as needed.
 4. Press the "=" button to compute the result of the entered expression.
 
-https://user-images.githubusercontent.com/15132045/284919167-97df31ce-8722-4b05-b8b3-319ae4ce527b.mp4
+## Video Demo 🎥
+
+[![Video Demo](https://user-images.githubusercontent.com/15132045/284919167-97df31ce-8722-4b05-b8b3-319ae4ce527b.mp4)](https://user-images.githubusercontent.com/15132045/284919167-97df31ce-8722-4b05-b8b3-319ae4ce527b.mp4)
